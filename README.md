@@ -9,7 +9,7 @@
 
 - 👯 I’m looking to collaborate on **any PHP, Laravel related projects**
 
-- 📫 How to reach me [Linkedin](https://www.linkedin.com/in/thehassaanahmed/) or [Email](mailto:hassaanahmedc@gmail.com)
+- 📫 Feel free to reach out to me at [Linkedin](https://www.linkedin.com/in/thehassaanahmed/) or [Email](mailto:hassaanahmedc@gmail.com)
 
 - 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1d5TrxKZPx140gMjZPfjH2zlBfQ9ioSjF/view?usp=drive_link)
 
@@ -17,6 +17,7 @@
 <p align="left">
 <a href="https://linkedin.com/in/thehassaanahmed" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="thehassaanahmed" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/hassaanahmedc" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="hassaanahmedc" height="30" width="40" /></a>
+<a href="https://discord.gg/hassaan007" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="hassaan007" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -24,5 +25,5 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=hassaanahmedc&show_icons=true&theme=dark&locale=en&layout=compact" alt="hassaanahmedc" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hassaanahmedc&theme=highcontrast" alt="hassaanahmedc" /></p>
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=hassaanahmedc&theme=radical" alt="GitHub Streak" /></a>
 
