@@ -9,7 +9,7 @@
 
 - 👯 I’m looking to collaborate on **any PHP, Laravel related projects**
 
-- 📫 How to reach me [Linkedin](https://www.linkedin.com/in/thehassaanahmed/) or [Email](hassaanahmedc@gmail.com)
+- 📫 How to reach me [Linkedin](https://www.linkedin.com/in/thehassaanahmed/) or [Email](mailto:hassaanahmedc@gmail.com)
 
 - 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1d5TrxKZPx140gMjZPfjH2zlBfQ9ioSjF/view?usp=drive_link)
 
