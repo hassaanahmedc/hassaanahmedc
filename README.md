@@ -3,13 +3,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hassaanahmedc&label=Profile%20views&color=0e75b6&style=flat" alt="hassaanahmedc" /> </p>
 
-- 🔭 I’m currently working on [a Social Media Site](https://github.com/hassaanahmedc/connectify)
+- 🔭 I’m currently working on a **Social Media Site**
 
 - 🌱 I’m currently learning **Laravel and ReactJs**
 
 - 👯 I’m looking to collaborate on **any PHP, Laravel related projects**
 
-- 📫 How to reach me **Linkedin: https://www.linkedin.com/in/thehassaanahmed/ or here on GitHub**
+- 📫 How to reach me [Linkedin](https://www.linkedin.com/in/thehassaanahmed/) or [Email](hassaanahmedc@gmail.com)**
 
 - 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1d5TrxKZPx140gMjZPfjH2zlBfQ9ioSjF/view?usp=drive_link)
 
