@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hassaanahmedc&label=Profile%20views&color=0e75b6&style=flat" alt="hassaanahmedc" /> </p>
 
-- 🔭 I’m currently working on **[Tijarat](https://github.com/hassaanahmedc)** — a B2B Operations & Inventory Management Engine.
+- 🔭 I’m currently working on **[Tijarat](https://github.com/hassaanahmedc)**, a B2B Operations & Inventory Management Engine.
 
-- 🚀 Shipped **[Connectify](https://github.com/hassaanahmedc/connectify)** — a full-stack social network built with Laravel.
+- 🚀 Shipped **[Connectify](https://github.com/hassaanahmedc/connectify)**, a full-stack social network built with Laravel.
   
 - 🌱 I’m currently diving deep into **Distributed Systems Design & TALL Stack Scalability**.
 
@@ -29,7 +29,7 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
   <img width="12" />
-  <img src="https://cdn.simpleicons.org/alpinedotjs/000000?color=white" height="40" alt="alpinejs logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/alpinejs/alpinejs-original.svg" height="40" alt="alpinejs logo"  />
   <img width="12" />
   <img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" height="40" alt="tailwindcss logo"  />
   <img width="12" />
