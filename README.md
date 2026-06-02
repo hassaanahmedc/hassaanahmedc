@@ -13,7 +13,7 @@
 
 - 📫 Feel free to reach out to me via [Linkedin](https://www.linkedin.com/in/hassaancodes/) or [Email](mailto:codes.hassaan@gmail.com)
 
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1d5TrxKZPx140gMjZPfjH2zlBfQ9ioSjF/view?usp=drive_link)
+- 📄 Know about my experiences [Resume](https://mozilla.github.io/pdf.js/web/viewer.html?file=https://raw.githubusercontent.com/hassaanahmedc/hassaanahmedc/main/Hassaans_Resume.pdf)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
